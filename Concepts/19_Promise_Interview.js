@@ -25,7 +25,7 @@ const p3 = new Promise( (resolve, reject) => {
 // As soon as any one of the promise is rejected then the promise.all will throw the same error. It will not wait for the other promises
 
 // Input - promise.all([p1, p2, p3])  // If all promises are resolved
-// Output - [val1, err2, val3]
+// Output - [val1, val2, val3]
 
 // Input - promise.all([p1, p2, p3])  // If promise p2 is rejected
 // Output - Error
