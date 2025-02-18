@@ -6,6 +6,9 @@ const users = [
     { firstName: "Brad" , lastName: "Pitt", age: 56},
     { firstName: "Ritik" , lastName: "Sinha", age: 26},
     { firstName: "Tom" , lastName: "Cruise", age: 45},
+    { firstName: "Jerry" , lastName: "Mac", age: 23},
+    { firstName: "Tony" , lastName: "Stark", age: 48},
+    { firstName: "Steve" , lastName: "Rogers", age: 39},
 ];
 
 
